@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .text { 
+            fill: #ffffff; 
+            font-family: 'Arial', sans-serif; 
+            font-size: 72px;
+            font-weight: bold;
+        }
+    </style>
+    <text x="50%" y="50%" class="text" text-anchor="middle" dominant-baseline="middle">PoC専門AIサービス開発</text>
+</svg>
